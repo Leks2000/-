@@ -1,0 +1,15 @@
+F:\repos\Конструкторы\obj\Debug\net6.0\Конструкторы.csproj.AssemblyReference.cache
+F:\repos\Конструкторы\obj\Debug\net6.0\Конструкторы.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\Конструкторы\obj\Debug\net6.0\Конструкторы.AssemblyInfoInputs.cache
+F:\repos\Конструкторы\obj\Debug\net6.0\Конструкторы.AssemblyInfo.cs
+F:\repos\Конструкторы\obj\Debug\net6.0\Конструкторы.csproj.CoreCompileInputs.cache
+F:\repos\Конструкторы\bin\Debug\net6.0\Конструкторы.exe
+F:\repos\Конструкторы\bin\Debug\net6.0\Конструкторы.deps.json
+F:\repos\Конструкторы\bin\Debug\net6.0\Конструкторы.runtimeconfig.json
+F:\repos\Конструкторы\bin\Debug\net6.0\Конструкторы.dll
+F:\repos\Конструкторы\bin\Debug\net6.0\Конструкторы.pdb
+F:\repos\Конструкторы\obj\Debug\net6.0\Конструкторы.dll
+F:\repos\Конструкторы\obj\Debug\net6.0\refint\Конструкторы.dll
+F:\repos\Конструкторы\obj\Debug\net6.0\Конструкторы.pdb
+F:\repos\Конструкторы\obj\Debug\net6.0\Конструкторы.genruntimeconfig.cache
+F:\repos\Конструкторы\obj\Debug\net6.0\ref\Конструкторы.dll
